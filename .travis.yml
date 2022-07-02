@@ -16,7 +16,7 @@ deploy:
   region: "ap-south-1"
   app: "docker-youtube"
   env: "DockerYoutube-env"
-  bucket_name: "elasticbeanstalk-ap-south-1-345800986069"
+  bucket_name: "XXXXXXXXXX"
   bucket_path: "docker-youtube"
   on:
     branch: master
